@@ -1,0 +1,33 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/index/single/single",
+        "pages/regulation/regulation",
+        "pages/index/srule/srule"
+    ],
+    "window": {
+        "navigationBarBackgroundColor": "#000",
+        "navigationBarTitleText": "博饼",
+        "navigationBarTextStyle": "white"
+    },
+    "tabBar": {
+        "color": "black",
+        "selectedColor": "red",
+        "borderStyle": "white",
+        "list": [
+            {
+                "selectedIconPath": "images/game2.png",
+                "iconPath": "images/game1.png",
+                "pagePath": "pages/index/index",
+                "text": "游戏"
+            },
+            {
+                "selectedIconPath": "images/help2.png",
+                "iconPath": "images/help1.png",
+                "pagePath": "pages/regulation/regulation",
+                "text": "关于我们"
+            }
+        ]
+    },
+    "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,12 @@
+
+  <view class="about" style="width: 746rpx; height: 360rpx; display: block; box-sizing: border-box">
+  <text>产品名称：博饼小程序</text>
+  <text>版本号：1.0.0</text>
+  <text>开发时间：2021年10月</text>
+  </view>
+  <view class="about aboutme" style="width: 746rpx; height: 920rpx; display: block; box-sizing: border-box">
+    <text class  ="title">作者  福州大学某两个大三学生</text>
+    <text class="title">GitHub：https://github.com/031902613</text>
+    <text>ps：新人第一次接触微信小程序，请多包涵</text>
+    <image src='/images/aligad.png' style="width: 640rpx; height: 610rpx; display: inline-block; box-sizing: border-box"></image>
+  </view>

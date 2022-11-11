@@ -1,0 +1,4 @@
+<view class="container2">
+  <image src='/images/rules.png'></image>
+  <view class='upp'></view>
+</view>

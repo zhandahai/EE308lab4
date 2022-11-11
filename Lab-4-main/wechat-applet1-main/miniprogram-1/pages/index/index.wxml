@@ -1,0 +1,7 @@
+
+<view class="container">
+  <image src='/images/0.jpg'  style="position: absolute; left: 0rpx; top: -37rpx"></image>
+  <view class='up'></view>
+<button class="bt_connect" hover-class="hover-class-1" bindtap="jump1"   style="position: relative; left: -1rpx; top: 741rpx; width: 489rpx; height: 89rpx; display: block; box-sizing: border-box">单人游戏</button>
+<button class="bt_connect" hover-class="hover-class-1" bindtap="jump2"  style="position: relative; left: -1rpx; top: 787rpx; width: 489rpx; height: 89rpx; display: block; box-sizing: border-box">多人游戏</button>
+</view>

@@ -1,0 +1,32 @@
+<view class="container" style="position: relative; left: -1rpx; top: 0rpx">
+  <image src='/images/0.jpg'  style="position: relative; left: 0rpx; top: 8rpx; width: 750rpx; height: 1374rpx; display: inline-block; box-sizing: border-box"></image>
+  <view class='up'></view>
+</view>
+
+  <image src='/images/help1.png' bindtap="back1" style="position: absolute; left: 639rpx; top: 0rpx; width: 113rpx; height: 108rpx; display: block; box-sizing: border-box"></image>
+  <view class='upp'></view>
+  
+<view class="add_btn">
+<button class="circle"  bindtap="handletap"  style="width: 211rpx; height: 218rpx; display: block; box-sizing: border-box; left: -20rpx; top: 16rpx; position: relative">
+</button>
+</view>
+
+
+<view class="add_btn">
+<image  src="/images/{{num1}}.png" style="width: 100rpx; height: 100rpx; display: inline-block; box-sizing: border-box; position: relative; left: 148rpx; top: -616rpx"></image>
+</view>
+<view class="add_btn">
+<image  src="/images/{{num2}}.png" style="width: 100rpx; height: 100rpx; display: inline-block; box-sizing: border-box; position: relative; left: 314rpx; top: -524rpx"></image>
+</view>
+<view class="add_btn">
+<image  src="/images/{{num3}}.png" style="width: 100rpx; height: 100rpx; display: inline-block; box-sizing: border-box; position: relative; left: 472rpx; top: -626rpx"></image>
+</view>
+<view class="add_btn">
+<image  src="/images/{{num4}}.png" style="width: 100rpx; height: 100rpx; display: inline-block; box-sizing: border-box; position: relative; left: 471rpx; top: -773rpx"></image>
+</view>
+<view class="add_btn">
+<image  src="/images/{{num5}}.png" style="width: 100rpx; height: 100rpx; display: inline-block; box-sizing: border-box; position: relative; left: 314rpx; top: -880rpx"></image>
+</view>
+<view class="add_btn">
+<image  src="/images/{{num6}}.png" style="width: 100rpx; height: 100rpx; display: inline-block; box-sizing: border-box; position: relative; left: 148rpx; top: -774rpx"></image>
+</view>
